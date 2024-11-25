@@ -2,7 +2,8 @@ README: Security Management Strategy
 
 Overview
 
-This document outlines a strategic roadmap for enhancing the cybersecurity posture of our organization. It identifies key risks, highlights existing challenges, and provides actionable recommendations to ensure robust cybersecurity measures.
+This document outlines a strategic roadmap for enhancing the cybersecurity posture of our organization.
+It identifies key risks, highlights existing challenges, and provides actionable recommendations to ensure robust cybersecurity measures.
 
 Objectives
 
