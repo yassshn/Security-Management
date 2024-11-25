@@ -1,4 +1,4 @@
-README: Security Management Strategy
+Security Management Strategy
 
 Overview
 
